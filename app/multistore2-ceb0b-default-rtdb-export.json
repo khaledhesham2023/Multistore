@@ -1,0 +1,84 @@
+{
+  "departments" : {
+    "A-offers" : {
+      "image" : "https://firebasestorage.googleapis.com/v0/b/multistore2-ceb0b.appspot.com/o/Departments%2Foffers.png?alt=media&token=efd9d813-d02c-4427-9ea7-fc230d87643a",
+      "name" : "عروض مالتيستور"
+    },
+    "B-stationary" : {
+      "image" : "https://firebasestorage.googleapis.com/v0/b/multistore2-ceb0b.appspot.com/o/Departments%2Fstationary.png?alt=media&token=1cda280a-6550-4008-aac9-2b89c0349e9d",
+      "name" : "المدارس و الأدوات المكتبية"
+    },
+    "C-meat" : {
+      "image" : "https://firebasestorage.googleapis.com/v0/b/multistore2-ceb0b.appspot.com/o/Departments%2Fmeat.png?alt=media&token=10b0fcb3-70c2-442a-9d19-4349aee4177a",
+      "name" : "دواجن و لحوم و أسماك"
+    },
+    "D-fruits" : {
+      "image" : "https://firebasestorage.googleapis.com/v0/b/multistore2-ceb0b.appspot.com/o/Departments%2Ffruits_and_vegetables.png?alt=media&token=324d08f5-0a6f-4911-a60d-971a8c7a6ed6",
+      "name" : "خضراوات و فاكهة"
+    },
+    "E-bakery" : {
+      "image" : "https://firebasestorage.googleapis.com/v0/b/multistore2-ceb0b.appspot.com/o/Departments%2Fbakery.png?alt=media&token=9e5d5457-ef51-485a-ae58-4b2247cde02b",
+      "name" : "مخبوزات"
+    },
+    "F-dairy" : {
+      "image" : "https://firebasestorage.googleapis.com/v0/b/multistore2-ceb0b.appspot.com/o/Departments%2Fdairy.png?alt=media&token=324e1a67-975d-40d2-8db3-b74a312d8936",
+      "name" : "منتجات ألبان"
+    },
+    "G-grocery" : {
+      "image" : "https://firebasestorage.googleapis.com/v0/b/multistore2-ceb0b.appspot.com/o/Departments%2Fgrocery.png?alt=media&token=fcffe973-dce1-4b3b-a075-460d805d2234",
+      "name" : "بقالة"
+    },
+    "H-dessert" : {
+      "image" : "https://firebasestorage.googleapis.com/v0/b/multistore2-ceb0b.appspot.com/o/Departments%2Fdesserts.png?alt=media&token=4b18162c-3a33-41ac-82c4-7c500cbf0505",
+      "name" : "حلويات و خاماتها"
+    },
+    "I-light" : {
+      "image" : "https://firebasestorage.googleapis.com/v0/b/multistore2-ceb0b.appspot.com/o/Departments%2Flightmeals.png?alt=media&token=f6ba8c35-1331-4c2c-9028-7ce314217982",
+      "name" : "وجبات خفيفة"
+    },
+    "J-biscuits" : {
+      "image" : "https://firebasestorage.googleapis.com/v0/b/multistore2-ceb0b.appspot.com/o/Departments%2Fsweets.png?alt=media&token=fccbaf75-bc76-4650-b4fc-4ea096e55f4f",
+      "name" : "حلويات و بسكويت"
+    },
+    "K-chocolate" : {
+      "image" : "https://firebasestorage.googleapis.com/v0/b/multistore2-ceb0b.appspot.com/o/Departments%2Fchocolatefrenzy.png?alt=media&token=20d3de87-f823-4a4c-8897-2fbb0e8586a3",
+      "name" : "مهرجان الشيكولاتة"
+    },
+    "L-drinks" : {
+      "image" : "https://firebasestorage.googleapis.com/v0/b/multistore2-ceb0b.appspot.com/o/Departments%2Fsodadrinks.png?alt=media&token=5ba8871b-9102-43c9-8878-7b1c2c025bf8",
+      "name" : "المشروبات"
+    },
+    "M-frozen" : {
+      "image" : "https://firebasestorage.googleapis.com/v0/b/multistore2-ceb0b.appspot.com/o/Departments%2Ffrozenfood.png?alt=media&token=7ce108ff-7cc2-4d4a-b23f-f856ad7de38a",
+      "name" : "أغذية مجمدة"
+    },
+    "N-canned" : {
+      "image" : "https://firebasestorage.googleapis.com/v0/b/multistore2-ceb0b.appspot.com/o/Departments%2Fcanfood.png?alt=media&token=dc0564b4-9d14-49cb-a2d4-7014498c4475",
+      "name" : "معلبات و اطعمه محفوظه"
+    },
+    "O-dates" : {
+      "image" : "https://firebasestorage.googleapis.com/v0/b/multistore2-ceb0b.appspot.com/o/Departments%2Fdates.png?alt=media&token=31ce0193-79b6-40b5-a951-a80ac898e5c7",
+      "name" : "تمور"
+    },
+    "P-personal" : {
+      "image" : "https://firebasestorage.googleapis.com/v0/b/multistore2-ceb0b.appspot.com/o/Departments%2Fpersonalhygiene.png?alt=media&token=d2b472d7-009c-4b1a-b0f2-8428248db49c",
+      "name" : "العناية الشخصية"
+    },
+    "Q-Tissues" : {
+      "image" : "https://firebasestorage.googleapis.com/v0/b/multistore2-ceb0b.appspot.com/o/Departments%2Ftissues.png?alt=media&token=aabe8a28-9304-4aba-a3f3-179e4d1578fe",
+      "name" : "مناديل ورقية"
+    },
+    "R-cleanser" : {
+      "image" : "https://firebasestorage.googleapis.com/v0/b/multistore2-ceb0b.appspot.com/o/Departments%2Fcleansers.png?alt=media&token=fac00830-8060-476c-aae8-c979de280cc4",
+      "name" : "المنظفات و الرعاية بالمنزل"
+    },
+    "S-kids" : {
+      "image" : "https://firebasestorage.googleapis.com/v0/b/multistore2-ceb0b.appspot.com/o/Departments%2Fkids.png?alt=media&token=1b710fd4-ef47-4898-850a-a10864f83589",
+      "name" : "أغذية و رعاية الأطفال"
+    },
+    "T-toys" : {
+      "image" : "https://firebasestorage.googleapis.com/v0/b/multistore2-ceb0b.appspot.com/o/Departments%2Ftoys.png?alt=media&token=9dc59c63-8d69-4fd8-a97e-bdd97dfe6f64",
+      "name" : "العاب"
+    }
+  }
+}

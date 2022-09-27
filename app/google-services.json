@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "277137968993",
+    "firebase_url": "https://multistore2-ceb0b-default-rtdb.firebaseio.com",
+    "project_id": "multistore2-ceb0b",
+    "storage_bucket": "multistore2-ceb0b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:277137968993:android:6aecdec41253d0b8747f20",
+        "android_client_info": {
+          "package_name": "com.khaledamin.android.multistore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "277137968993-3rbsf58cv93qb12sp8jrhh3ndbsvo4n4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTVITIKg_59DVPLi4nEo47n-l2nwyqQt8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "277137968993-3rbsf58cv93qb12sp8jrhh3ndbsvo4n4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:277137968993:android:1491dfa51691d39e747f20",
+        "android_client_info": {
+          "package_name": "com.khaledamin.android.multistore2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "277137968993-3rbsf58cv93qb12sp8jrhh3ndbsvo4n4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTVITIKg_59DVPLi4nEo47n-l2nwyqQt8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "277137968993-3rbsf58cv93qb12sp8jrhh3ndbsvo4n4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

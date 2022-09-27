@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Multistore</string>
+    <string name="title">مالتي ستور</string>
+    <string name="info">كل ما تريده في غمضة عين</string>
+    <string name="main">الرئيسية</string>
+    <string name="classify">التصنيفات</string>
+    <string name="more">المزيد</string>
+    <string name="cart">السلة</string>
+    <string name="home_title">الرئيسية</string>
+    <string name="account">حسابي</string>
+    <string name="basket">السلة</string>
+    <string name="name">enter your name</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="phoneNumber">رقم الموبايل</string>
+    <string name="signin">تسجيل الدخول</string>
+    <string name="visitor">الدخول كزائر</string>
+    <string name="password">كلمة المرور</string>
+    <string name="forget">نسيت كلمة المرور</string>
+    <string name="noAccountNew">ليس لديك حساب. تسجيل جديد؟</string>
+    <string name="moreTitle">المزيد ...</string>
+    <string name="your_text">enter text here</string>
+    <string name="_1_0_0">النسخة 1.0.0</string>
+    <string name="_2022">مالتي ستور 2022 جميع الحقوق محفوظة</string>
+</resources>

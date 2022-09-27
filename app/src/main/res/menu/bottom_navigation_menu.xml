@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/more"
+          android:enabled="true"
+        app:labelVisibilityMode="labeled"
+        android:checked="true"
+          android:icon="@drawable/ic_baseline_more_vert_24"
+          android:title="@string/more" />
+
+    <item android:id="@+id/account"
+          android:enabled="true"
+        app:labelVisibilityMode="labeled"
+          android:icon="@drawable/ic_baseline_account_circle_24"
+          android:title="@string/account"/>
+
+    <item android:id="@+id/basket"
+        android:enabled="true"
+        android:icon="@drawable/ic_baseline_shopping_cart_24"
+        app:labelVisibilityMode="labeled"
+        android:title="@string/cart"/>
+
+    <item android:id="@+id/main"
+        android:enabled="true"
+        android:iconTint="#ffa300"
+        app:labelVisibilityMode="labeled"
+        android:checked="true"
+        android:icon="@drawable/ic_baseline_home_24"
+        android:title="@string/home_title"/>
+
+</menu>
